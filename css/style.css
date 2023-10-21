@@ -1,0 +1,40 @@
+.bike-zone-carousel {
+    background-color: red;
+}
+
+.primary-btn {
+    border-radius: 5px;
+    border: none;
+    background: #E76F51;
+    padding: 10px 24px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.read-more {
+    color: #E76F51;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid #E76F51;
+    width: 160px;
+    padding: 10px 24px;
+}
+
+.header-banner {
+    background: #264653;
+
+
+}
+
+.bike-model {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.bike-description {
+    color: #979797;
+}
